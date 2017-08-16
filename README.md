@@ -2,6 +2,12 @@
 
 Hello My name is Manny Cuevas I've been a Security Researcher / Engineer for about 8 years.
 
+# [Website !] #
+# [Twitter !] #
+# [Linkedin !] #
+# [Google Plus !] #
+# [Facebook !] #
+
 [Website !]: http://mannycuevas.com
 [Twitter !]: https://twitter.com/mannycuevas0
 [Linkedin !]: https://www.linkedin.com/in/manny-cuevas
